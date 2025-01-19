@@ -1,4 +1,4 @@
-package com.example.compose.ui.theme
+package com.example.AlarmWoodada.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

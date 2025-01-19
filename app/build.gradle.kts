@@ -5,14 +5,14 @@ plugins {
 }
 
 android {
-    namespace = "com.example.compose"
+    namespace = "com.example.alarmWoodada"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.compose"
+        applicationId = "com.example.alarmWoodada"
         minSdk = 24
         targetSdk = 35
-        versionCode = 25011601
+        versionCode = 25011901
         versionName = "1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
